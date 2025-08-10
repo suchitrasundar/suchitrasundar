@@ -1,10 +1,5 @@
-<h1 align="center">Hi there 👋, I'm [Suchitra Sundar]</h1>
+<h1 align="center">Hi there 👋, I'm Suchitra Sundar </h1>
 <h3 align="center">Software Engineer | Backend Developer </h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -79,16 +74,6 @@
 **Nov 2017 – Jul 2018**  
 - Developed RPA workflows with **UiPath**.  
 - Automated internal processes and reduced delay overheads.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="340"/>
-</p>
-
 ---
 
 ### 🔗 Let's Connect
