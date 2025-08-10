@@ -63,16 +63,6 @@
 - Led enhancements for **Project CAA (College Affordability Act)**.  
 - Agile coach – led SCRUM ceremonies, tracked deliverables using **JIRA**.
 
-#### 🔹 Tata Consultancy Services – Software Engineer *(Dallas, TX)*  
-**Aug 2020 – Dec 2022**  
-- Developed microservices for **Citibank (SOM)** using Java, Spring Boot, Hibernate.  
-- Visualized application health using **Dash + MongoDB**, deployed with Flask.  
-- Used **Postman**, **JUnit**, and deployed via Jenkins & Nginx.
-
-#### 🔹 Cognizant – Programmer Analyst *(Chennai, India)*  
-**Nov 2017 – Jul 2018**  
-- Developed RPA workflows with **UiPath**.  
-- Automated internal processes and reduced delay overheads.
 ---
 
 ### 🔗 Let's Connect
